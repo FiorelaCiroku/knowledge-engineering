@@ -3,7 +3,7 @@ This repository provides material and examples for the [Knowledge Engineering cl
 
 ## Video Tutorial and Slides
 
-- [Video Tutorial](https://www.dropbox.com/s/bc31v0klg68op0z/SPARQLAnythingTutorial-highres.mp4?dl=0)
+- [Video Tutorial](https://drive.google.com/file/d/1e59fchBLdbrzZgQWLiXhh8MFeeru1E6M/view?usp=sharing)
 - [Slides](https://docs.google.com/presentation/d/1gzrQK8aqkAsdX72F7rbS9qAI94RuD0Uz/edit?usp=sharing&ouid=113864870076967859609&rtpof=true&sd=true)
 
 ## Links
