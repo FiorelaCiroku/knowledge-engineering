@@ -19,7 +19,15 @@ This repository provides material and examples for the [Knowledge Engineering cl
 
 ## Assignment
 
+### Sources
+
 - Requirement for the competency question verification test: When was a recording produced?
+- Ontologies that you need to use for the tests: [Musical performance ontology](https://github.com/polifonia-project/musical-performance-ontology) and [Core ontology](https://github.com/polifonia-project/core-ontology). 
+
+<img width="600" alt="Screenshot 2021-12-10 at 02 46 04" src="https://user-images.githubusercontent.com/12375920/145503368-f8012afb-ca8f-471e-9174-386ff8e900b8.png">
+
+### Tasks 
+
 - Translate the competency question to a SPARQL query.
 - Create a toy dataset for the competency question verification test based on the requirement.
 - Create an expected result file for the competency question verification test based on the requirement.
